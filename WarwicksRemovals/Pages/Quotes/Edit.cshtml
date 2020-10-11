@@ -1,0 +1,155 @@
+﻿@page
+@model WarwicksRemovals.Pages.Quotes.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>RemovalQuote</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="RemovalQuote.RemovalQuoteID" />
+            <div class="form-group">
+                <label asp-for="RemovalQuote.Title" class="control-label"></label>
+                <input asp-for="RemovalQuote.Title" class="form-control" />
+                <span asp-validation-for="RemovalQuote.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.Forename" class="control-label"></label>
+                <input asp-for="RemovalQuote.Forename" class="form-control" />
+                <span asp-validation-for="RemovalQuote.Forename" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.Surname" class="control-label"></label>
+                <input asp-for="RemovalQuote.Surname" class="form-control" />
+                <span asp-validation-for="RemovalQuote.Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.Company" class="control-label"></label>
+                <input asp-for="RemovalQuote.Company" class="form-control" />
+                <span asp-validation-for="RemovalQuote.Company" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.MoveDate" class="control-label"></label>
+                <input asp-for="RemovalQuote.MoveDate" class="form-control" />
+                <span asp-validation-for="RemovalQuote.MoveDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.TelNumber" class="control-label"></label>
+                <input asp-for="RemovalQuote.TelNumber" class="form-control" />
+                <span asp-validation-for="RemovalQuote.TelNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.TelExtension" class="control-label"></label>
+                <input asp-for="RemovalQuote.TelExtension" class="form-control" />
+                <span asp-validation-for="RemovalQuote.TelExtension" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.Mobile" class="control-label"></label>
+                <input asp-for="RemovalQuote.Mobile" class="form-control" />
+                <span asp-validation-for="RemovalQuote.Mobile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.Email" class="control-label"></label>
+                <input asp-for="RemovalQuote.Email" class="form-control" />
+                <span asp-validation-for="RemovalQuote.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.FromAddress1" class="control-label"></label>
+                <input asp-for="RemovalQuote.FromAddress1" class="form-control" />
+                <span asp-validation-for="RemovalQuote.FromAddress1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.FromAddress2" class="control-label"></label>
+                <input asp-for="RemovalQuote.FromAddress2" class="form-control" />
+                <span asp-validation-for="RemovalQuote.FromAddress2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.FromAddress3" class="control-label"></label>
+                <input asp-for="RemovalQuote.FromAddress3" class="form-control" />
+                <span asp-validation-for="RemovalQuote.FromAddress3" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.FromAddress4" class="control-label"></label>
+                <input asp-for="RemovalQuote.FromAddress4" class="form-control" />
+                <span asp-validation-for="RemovalQuote.FromAddress4" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.FromPostcode" class="control-label"></label>
+                <input asp-for="RemovalQuote.FromPostcode" class="form-control" />
+                <span asp-validation-for="RemovalQuote.FromPostcode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.FromPropertyType" class="control-label"></label>
+                <input asp-for="RemovalQuote.FromPropertyType" class="form-control" />
+                <span asp-validation-for="RemovalQuote.FromPropertyType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.FromNumBedrooms" class="control-label"></label>
+                <input asp-for="RemovalQuote.FromNumBedrooms" class="form-control" />
+                <span asp-validation-for="RemovalQuote.FromNumBedrooms" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="RemovalQuote.IsMovingToStorage" /> @Html.DisplayNameFor(model => model.RemovalQuote.IsMovingToStorage)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.ToAddress1" class="control-label"></label>
+                <input asp-for="RemovalQuote.ToAddress1" class="form-control" />
+                <span asp-validation-for="RemovalQuote.ToAddress1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.ToAddress2" class="control-label"></label>
+                <input asp-for="RemovalQuote.ToAddress2" class="form-control" />
+                <span asp-validation-for="RemovalQuote.ToAddress2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.ToAddress3" class="control-label"></label>
+                <input asp-for="RemovalQuote.ToAddress3" class="form-control" />
+                <span asp-validation-for="RemovalQuote.ToAddress3" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.ToAddress4" class="control-label"></label>
+                <input asp-for="RemovalQuote.ToAddress4" class="form-control" />
+                <span asp-validation-for="RemovalQuote.ToAddress4" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.ToPostcode" class="control-label"></label>
+                <input asp-for="RemovalQuote.ToPostcode" class="form-control" />
+                <span asp-validation-for="RemovalQuote.ToPostcode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.ToPropertyType" class="control-label"></label>
+                <input asp-for="RemovalQuote.ToPropertyType" class="form-control" />
+                <span asp-validation-for="RemovalQuote.ToPropertyType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.ToNumBedrooms" class="control-label"></label>
+                <input asp-for="RemovalQuote.ToNumBedrooms" class="form-control" />
+                <span asp-validation-for="RemovalQuote.ToNumBedrooms" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RemovalQuote.Comments" class="control-label"></label>
+                <input asp-for="RemovalQuote.Comments" class="form-control" />
+                <span asp-validation-for="RemovalQuote.Comments" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,359 @@
+﻿@page
+@model WarwicksRemovals.Pages.Quotes.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container-fluid White Spacer SpacerBottom" id="GetAQuote">
+    <div class="row">
+        <div class="col-md">
+            <div class="container" id="QuoteForm">
+                <div class="row">
+                    <div class="col-md text-left">
+                        <form method="post" id="SubmitQuote">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div id="carouselQuoteForm" class="carousel slide" data-interval="false">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <div class="row OtherContent">
+                                            <div class="col-md">
+                                                <h3>Personal Details</h3>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.Title" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <select asp-for="RemovalQuote.Title" asp-items="ViewBag.TitleData" class="form-control">
+                                                            <option value="" hidden disabled selected>Please select...</option>
+                                                        </select>
+                                                        <span asp-validation-for="RemovalQuote.Title" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.Forename" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.Forename" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.Forename" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.Surname" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.Surname" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.Surname" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.Company" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.Company" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.Company" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.MoveDate" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.MoveDate" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.MoveDate" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.TelNumber" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.TelNumber" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.TelNumber" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.TelExtension" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.TelExtension" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.TelExtension" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.Mobile" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.Mobile" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.Mobile" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.Email" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.Email" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.Email" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row OtherContent">
+                                            <div class="col-md">
+                                                <div class="alert alert-primary" role="alert">
+                                                    <div class="row">
+                                                        <div class="col-md text-left">
+                                                        </div>
+                                                        <div class="col-md text-right">
+                                                            <button type="button" class="btn btn-primary QuoteButton" data-slide="next" data-id="1">Step 2 of 3 <i class="fas fa-arrow-right"></i></button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="carousel-item">
+                                        <div class="row OtherContent">
+                                            <div class="col-md">
+                                                <h3>Property Details</h3>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="row">
+                                                    <div class="col-sm">
+                                                        <h4>Moving from</h4>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row EmptyRow">
+
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.FromAddress1" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.FromAddress1" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.FromAddress1" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.FromAddress2" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.FromAddress2" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.FromAddress2" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.FromAddress3" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.FromAddress3" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.FromAddress3" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.FromAddress4" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.FromAddress4" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.FromAddress4" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.FromPostcode" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.FromPostcode" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.FromPostcode" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.FromPropertyType" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <select asp-for="RemovalQuote.FromPropertyType" asp-items="ViewBag.PropertyTypeData" class="form-control">
+                                                            <option value="" hidden disabled selected>Please select...</option>
+                                                        </select>
+                                                        <span asp-validation-for="RemovalQuote.FromPropertyType" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.FromNumBedrooms" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.FromNumBedrooms" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.FromNumBedrooms" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <div class="row">
+                                                    <div class="col-sm">
+                                                        <h4>Moving to</h4>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <div class="col-sm-4"></div>
+                                                    <div class="col-sm-8">
+                                                        <div class="form-group row">
+                                                            <div class="col-sm-2">
+                                                                <label class="switch-sm">
+                                                                    <input type="checkbox" id="RemovalQuote_IsMovingToStorage" name="RemovalQuote.IsMovingToStorage">
+                                                                    <span class="slider-sm round"></span>
+                                                                </label>
+                                                            </div>
+                                                            <label asp-for="RemovalQuote.IsMovingToStorage" class="col-sm-10 col-form-label text-left"></label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.ToAddress1" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.ToAddress1" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.ToAddress1" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.ToAddress2" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.ToAddress2" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.ToAddress2" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.ToAddress3" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.ToAddress3" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.ToAddress3" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.ToAddress4" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.ToAddress4" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.ToAddress4" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.ToPostcode" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.ToPostcode" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.ToPostcode" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.ToPropertyType" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <select asp-for="RemovalQuote.ToPropertyType" asp-items="ViewBag.PropertyTypeData" class="form-control">
+                                                            <option value="" hidden disabled selected>Please select...</option>
+                                                        </select>
+                                                        <span asp-validation-for="RemovalQuote.ToPropertyType" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.ToNumBedrooms" class="col-sm-4 col-form-label"></label>
+                                                    <div class="col-sm-8">
+                                                        <input asp-for="RemovalQuote.ToNumBedrooms" class="form-control" />
+                                                        <span asp-validation-for="RemovalQuote.ToNumBedrooms" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row OtherContent">
+                                            <div class="col-md">
+                                                <div class="alert alert-primary" role="alert">
+                                                    <div class="row">
+                                                        <div class="col-md text-left">
+                                                            <button type="button" class="btn btn-secondary QuoteButton" data-slide="prev" data-id="1"><i class="fas fa-arrow-left"></i> Step 1 of 3</button>
+                                                        </div>
+                                                        <div class="col-md text-right">
+                                                            <button type="button" class="btn btn-primary QuoteButton" data-slide="next" data-id="1">Step 3 of 3 <i class="fas fa-arrow-right"></i></button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="carousel-item">
+                                        <div class="row OtherContent">
+                                            <div class="col-md">
+                                                <h3>Other Details</h3>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="form-group row">
+                                                    <label asp-for="RemovalQuote.Comments" class="col-sm-2 col-form-label"></label>
+                                                    <div class="col-sm-10">
+                                                        <textarea asp-for="RemovalQuote.Comments" class="form-control"></textarea>
+                                                        <span asp-validation-for="RemovalQuote.Comments" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row OtherContent">
+                                            <div class="col-md">
+                                                <div class="alert alert-primary" role="alert">
+                                                    <div class="row">
+                                                        <div class="col-md text-left">
+                                                            <button type="button" class="btn btn-secondary QuoteButton" data-slide="prev" data-id="1"><i class="fas fa-arrow-left"></i> Step 2 of 3</button>
+                                                        </div>
+                                                        <div class="col-md text-right">
+                                                            <button type="submit" class="btn btn-primary QuoteButton" data-slide="next" data-id="4">Continue <i class="fas fa-external-link-alt"></i></button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="carousel-item">
+                                        <div class="row">
+                                            <div class="col-md">
+                                                <div class="alert alert-success" role="alert">
+                                                    <h4 class="alert-heading">Thank you!</h4>
+                                                    <p>Please continue the process on the new browser tab that has opened</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md">
+                        <div class="progress">
+                            <div class="progress-bar" id="QuoteProgress" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                        </div>
+                    </div>
+                </div>
+                <div id="QuoteDataToSubmit">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

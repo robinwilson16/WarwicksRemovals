@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Warwicks Removals | Morpeth's Removals and Storage Company</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/twitter-bootstrap/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/lib/font-awesome/css/all.css" />
+        <link rel="stylesheet" href="~/lib/ekko-lightbox/ekko-lightbox.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/twitter-bootstrap/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute"
+              crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" crossorigin="anonymous" />
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"
+              asp-fallback-href="~/lib/ekko-lightbox/ekko-lightbox.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+    </environment>
+
+    <link href="//fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="~/css/slider.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container-fluid White Spacer SpacerBottom">
+        <div class="row">
+            <div class="col-md">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md text-md-center mb-4 mb-md-0 TopLogo">
+                            <img src="/images/WaricksRemovalsLogo.png" alt="Warwicks Removals" class="d-block mx-auto mx-md-0" />
+                        </div>
+                        <div class="col-md">
+                            <div class="row">
+                                <div class="col-md text-center SocialMedia">
+                                    <a href="https://www.facebook.com/warwicksremovals" target="_blank"><img src="/images/Facebook.png" alt="Facebook" /></a>
+                                    <a href="https://twitter.com/warwicksremove" target="_blank"><img src="/images/Twitter.png" alt="Twitter" /></a>
+                                    <a href="mailto:info@warwicksremovals.co.uk?subject=Website%20Enquiry" target="_blank"><img src="/images/Email.png" alt="Email" /></a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md text-center">
+                                    <h3 class="TopTel"><a href="tel:01670 228 653"><i class="fas fa-phone"></i> 01670 228 653</a></h3>
+                                    <h3 class="TopTel"><a href="tel:07825 581250"><i class="fas fa-mobile-alt"></i> 07825 581250</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="body-content">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <div class="container-fluid Black Footer">
+        <div class="row">
+            <div class="col-md">
+                <footer class="footer text-center text-muted">
+                    <i class="fas fa-copyright"></i> 2020 - Warwicks Removals | Morpeth's Removals and Storage Company - Company Number: <i class="fas fa-hashtag"></i>11161136
+                </footer>
+            </div>
+        </div>
+    </div>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js" asp-append-version="true"></script>
+        <script src="~/lib/twitter-bootstrap/js/bootstrap.bundle.js" asp-append-version="true"></script>
+        <script src="~/lib/ekko-lightbox/ekko-lightbox.js" asp-append-version="true"></script>
+        <script src="~/lib/ScrollMagic/ScrollMagic.js" asp-append-version="true"></script>
+        <script src="~/lib/ScrollMagic/plugins/debug.addIndicators.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous">
+        </script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js"
+                asp-fallback-src="~/lib/twitter-bootstrap/js/bootstrap.bundle.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous">
+        </script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"
+                asp-fallback-src="~/lib/ekko-lightbox/ekko-lightbox.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous">
+        </script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"
+                asp-fallback-src="~/lib/ekko-lightbox/ekko-lightbox.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous">
+        </script>
+    </environment>
+
+    <script src="~/js/modals.js" asp-append-version="true"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

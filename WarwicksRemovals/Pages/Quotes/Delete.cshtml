@@ -1,0 +1,172 @@
+﻿@page
+@model WarwicksRemovals.Pages.Quotes.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>RemovalQuote</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.Forename)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.Forename)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.Surname)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.Surname)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.Company)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.Company)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.MoveDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.MoveDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.TelNumber)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.TelNumber)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.TelExtension)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.TelExtension)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.Mobile)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.Mobile)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.FromAddress1)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.FromAddress1)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.FromAddress2)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.FromAddress2)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.FromAddress3)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.FromAddress3)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.FromAddress4)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.FromAddress4)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.FromPostcode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.FromPostcode)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.FromPropertyType)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.FromPropertyType)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.FromNumBedrooms)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.FromNumBedrooms)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.IsMovingToStorage)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.IsMovingToStorage)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.ToAddress1)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.ToAddress1)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.ToAddress2)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.ToAddress2)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.ToAddress3)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.ToAddress3)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.ToAddress4)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.ToAddress4)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.ToPostcode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.ToPostcode)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.ToPropertyType)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.ToPropertyType)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.ToNumBedrooms)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.ToNumBedrooms)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RemovalQuote.Comments)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.RemovalQuote.Comments)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="RemovalQuote.RemovalQuoteID" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

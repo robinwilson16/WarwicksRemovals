@@ -1,0 +1,180 @@
+﻿@page
+@model WarwicksRemovals.Pages.Quotes.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].Forename)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].Surname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].Company)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].MoveDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].TelNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].TelExtension)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].Mobile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].FromAddress1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].FromAddress2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].FromAddress3)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].FromAddress4)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].FromPostcode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].FromPropertyType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].FromNumBedrooms)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].IsMovingToStorage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].ToAddress1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].ToAddress2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].ToAddress3)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].ToAddress4)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].ToPostcode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].ToPropertyType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].ToNumBedrooms)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemovalQuote[0].Comments)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.RemovalQuote) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Forename)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Surname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Company)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoveDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TelNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TelExtension)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FromAddress1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FromAddress2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FromAddress3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FromAddress4)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FromPostcode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FromPropertyType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FromNumBedrooms)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsMovingToStorage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ToAddress1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ToAddress2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ToAddress3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ToAddress4)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ToPostcode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ToPropertyType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ToNumBedrooms)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comments)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.RemovalQuoteID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.RemovalQuoteID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.RemovalQuoteID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

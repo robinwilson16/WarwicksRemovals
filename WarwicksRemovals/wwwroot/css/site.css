@@ -1,0 +1,242 @@
+﻿body {
+    font-family: 'Roboto', sans-serif;
+}
+
+a:link,
+a:active,
+a:visited {
+    color: #00963d;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #29337f;
+}
+
+h1.Strapline {
+    font-size: 3em;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1.Spinner {
+    font-size: 4em;
+    color: #00963d;
+}
+
+h4.Highlight {
+    font-weight: 500;
+}
+
+h3 {
+    color: #00963d;
+    font-weight: 500;
+}
+
+.OtherContent h3 {
+    margin-bottom: 20px;
+}
+
+h4 {
+    color: #29337f;
+    font-weight: 300;
+}
+
+.White a:link,
+.White a:active,
+.White a:visited {
+    color: #29337f;
+    font-weight: bold;
+}
+
+.White a:hover {
+    color: #00963d;
+}
+
+.White h4.Highlight {
+    color: #29337f;
+}
+
+p {
+    font-weight: 300;
+    font-size: 1.2em;
+}
+
+.CompanyNumber {
+    font-weight: 500;
+    font-size: 0.9em;
+    margin-bottom: 8px;
+}
+
+#CarouselTestimonials blockquote.blockquote {
+    min-height: 150px;
+}
+
+.blockquote {
+    font-weight: 300;
+    font-size: 1em;
+    text-align: center;
+}
+
+.blockquote-footer {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 500;
+    margin-top: 20px;
+    align-self: end;
+}
+
+.blockquote-footer:before {
+    content: "";
+}
+
+.Spacer {
+    padding-top: 80px;
+}
+
+.SpacerBottom {
+    padding-bottom: 80px;
+}
+
+
+.LogoContainer {
+    margin-top: 80px;
+}
+
+.TopLogo img {
+    max-width: 300px;
+}
+
+.SocialMedia {
+    margin-bottom: 8px;
+}
+
+h3.TopTel {
+    color: #00963d;
+    font-size: 1.6em;
+}
+
+.White {
+    background-color: #ffffff;
+}
+
+.White h1.Strapline {
+    color: #29337f;
+}
+
+.Blue {
+    background-color: #29337f;
+    color: #ffffff;
+}
+
+.Blue a:hover {
+    color: #ffffff;
+}
+
+.Green {
+    background-color: #00963d;
+    color: #ffffff;
+}
+
+.Grey {
+    background-color: #cccccc;
+}
+
+.Boxes {
+    background-color: #ffffff;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media (min-width: 0px) {
+    .Boxes {
+        background-image: url(/images/boxes-1600x1140.png);
+    }
+}
+
+@media (min-width: 576px) {
+    .Boxes {
+        background-image: url(/images/boxes-1600x1100.png);
+    }
+}
+
+@media (min-width: 768px) {
+    .Boxes {
+        background-image: url(/images/boxes-1300x670.png);
+    }
+}
+
+@media (min-width: 992px) {
+    .Boxes {
+        background-image: url(/images/boxes-1600x700.png);
+    }
+}
+
+@media (min-width: 1200px) {
+    .Boxes {
+        background-image: url(/images/boxes-1920x1080.png);
+    }
+}
+
+
+.Boxes h1.Strapline {
+    color: #00963d;
+}
+
+.Boxes h4.Strapline {
+    color: #29337f;
+    font-weight: 500;
+}
+
+.Boxes .col-md-6 {
+    margin-bottom: 36px;
+}
+
+.Black {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.GetInTouch p {
+    font-size: 1.8em;
+    font-weight: 300;
+}
+
+.MapContainer {
+    position: relative;
+    width: 100%;
+    min-height: 400px;
+    margin-bottom: -20px;
+}
+
+.MapContainer > * {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.Footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 1.2em;
+}
+
+.EmptyRow {
+    min-height: 54px;
+}
+
+#carouselQuoteForm .carousel-item > .row:not(.OtherContent) {
+    min-height: 486px;
+}
+
+#carouselQuoteForm textarea {
+    min-height: 200px;
+}

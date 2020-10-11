@@ -1,0 +1,21 @@
+CREATE PROCEDURE [dbo].[SPR_SelectListData]
+    @Domain NVARCHAR(50)
+AS
+BEGIN
+	SET NOCOUNT ON;
+
+	--DECLARE @Domain VARCHAR(50) = 'TEST'
+
+	SELECT
+		Code = SL.Code,
+		Description = SL.Description,
+		Domain = SL.Domain,
+		IsEnabled = SL.IsEnabled,
+		SortOrder = SL.SortOrder
+	FROM SelectListData SL
+	WHERE
+		SL.Domain = @Domain
+	ORDER BY
+		SL.SortOrder,
+		SL.Description
+END
