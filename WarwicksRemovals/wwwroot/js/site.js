@@ -1,5 +1,11 @@
-﻿//Load quote into box on home page
-loadQuote();
+﻿jQuery.event.special.touchstart = {
+    setup: function (_, ns, handle) {
+        this.addEventListener("touchstart", handle, { passive: true });
+    }
+};
+
+//Load quote into box on home page
+//loadQuote();
 
 function loadQuote() {
     var dataToLoad = "/Quotes/Create";

@@ -57,6 +57,10 @@ h4 {
     color: #29337f;
 }
 
+.Blue h4.Highlight {
+    color: #ffffff;
+}
+
 p {
     font-weight: 300;
     font-size: 1.2em;
@@ -143,6 +147,20 @@ h3.TopTel {
     background-color: #cccccc;
 }
 
+a.GreenButton:link,
+a.GreenButton:active,
+a.GreenButton:visited {
+    color: #ffffff;
+    background-color: #00963d;
+    font-weight: normal;
+}
+
+a.GreenButton:hover {
+    color: #ffffff;
+    background-color: #29337f;
+    font-weight: bold;
+}
+
 .Boxes {
     background-color: #ffffff;
     background-position: center;
@@ -151,31 +169,31 @@ h3.TopTel {
 
 @media (min-width: 0px) {
     .Boxes {
-        background-image: url(/images/boxes-1600x1140.png);
+        background-image: url(/images/boxes-1600x1140.jpg);
     }
 }
 
 @media (min-width: 576px) {
     .Boxes {
-        background-image: url(/images/boxes-1600x1100.png);
+        background-image: url(/images/boxes-1600x1100.jpg);
     }
 }
 
 @media (min-width: 768px) {
     .Boxes {
-        background-image: url(/images/boxes-1300x670.png);
+        background-image: url(/images/boxes-1300x670.jpg);
     }
 }
 
 @media (min-width: 992px) {
     .Boxes {
-        background-image: url(/images/boxes-1600x700.png);
+        background-image: url(/images/boxes-1600x700.jpg);
     }
 }
 
 @media (min-width: 1200px) {
     .Boxes {
-        background-image: url(/images/boxes-1920x1080.png);
+        background-image: url(/images/boxes-1920x1080.jpg);
     }
 }
 
