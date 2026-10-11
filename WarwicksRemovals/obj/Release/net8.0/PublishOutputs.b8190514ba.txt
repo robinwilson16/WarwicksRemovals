@@ -1,0 +1,2 @@
+C:\Net Core\v8.0\WarwicksRemovals\WarwicksRemovals\obj\Release\net8.0\browser-wasm\PubTmp\Out\libman.json
+C:\Net Core\v8.0\WarwicksRemovals\WarwicksRemovals\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config

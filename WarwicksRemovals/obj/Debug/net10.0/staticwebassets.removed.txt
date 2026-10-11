@@ -1,0 +1,4 @@
+C:\Users\robin.wilson\source\repos\WarwicksRemovals\WarwicksRemovals\wwwroot\lib\font-awesome\webfonts\fa-brands-400.ttf
+C:\Users\robin.wilson\source\repos\WarwicksRemovals\WarwicksRemovals\wwwroot\lib\font-awesome\webfonts\fa-regular-400.ttf
+C:\Users\robin.wilson\source\repos\WarwicksRemovals\WarwicksRemovals\wwwroot\lib\font-awesome\webfonts\fa-solid-900.ttf
+C:\Users\robin.wilson\source\repos\WarwicksRemovals\WarwicksRemovals\wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.ttf

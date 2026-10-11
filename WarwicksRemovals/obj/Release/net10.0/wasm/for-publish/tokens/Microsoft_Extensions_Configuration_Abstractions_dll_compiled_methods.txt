@@ -1,0 +1,4 @@
+C:\Users\robin.wilson\source\repos\WarwicksRemovals\WarwicksRemovals\obj\Release\net10.0\wasm\for-publish\aot-in\Microsoft.Extensions.Configuration.Abstractions.dll
+ECC72864-CB43-40AC-86E3-9D2488B1637C
+6000002
+6000003

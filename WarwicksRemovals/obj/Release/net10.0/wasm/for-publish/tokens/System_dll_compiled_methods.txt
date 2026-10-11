@@ -1,0 +1,2 @@
+C:\Users\robin.wilson\source\repos\WarwicksRemovals\WarwicksRemovals\obj\Release\net10.0\wasm\for-publish\aot-in\System.dll
+A038F5C0-0A8E-4F39-9CD6-852F722C762F

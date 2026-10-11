@@ -1,0 +1,40 @@
+﻿@inherits LayoutComponentBase
+<div class="page">
+    <div class="sidebar sticky-top">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4 auth sticky-top2">
+            @* <LoginDisplay /> *@
+            <a href="tel:01670 228 653" title="Email Us" target="_blank" rel="noopener"><i class="fas fa-phone"></i> 01670 228 653</a>
+            <a href="tel:07825 581250" title="Email Us" target="_blank" rel="noopener"><i class="fas fa-mobile-alt"></i> 07825 581250</a>
+            <a href="mailto:info@warwicksremovals.co.uk?subject=Website%20Enquiry" title="Email Us" target="_blank" rel="noopener"><i class="fas fa-envelope"></i></a>
+            <a href="//www.facebook.com/warwicksremovals/" title="Visit our Facebook page" target="_blank" rel="noopener"><i class="fab fa-facebook"></i></a>
+            <a href="//twitter.com/warwicksremove/" title="Visit our Twitter page" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
+        </div>
+
+        <div class="container-fluid White p-5">
+            <div class="row">
+                <div class="col-md text-center">
+                    <img src="/images/WarwicksRemovalsLogo.png" class="img-fluid" alt="Warwicks Removals" />
+                </div>
+            </div>
+        </div>
+
+        <article class="content">
+            @Body
+        </article>
+
+        <div class="container-fluid Black Footer">
+            <div class="row">
+                <div class="col-md">
+                    <footer class="footer text-center text-secondary">
+                        Copyright <i class="fas fa-copyright"></i> 2024 - Warwicks Removals | Morpeth's Removals and Storage Company - Company Number: <i class="fas fa-hashtag"></i>11161136
+                    </footer>
+                </div>
+            </div>
+        </div>
+        
+    </main>
+</div>

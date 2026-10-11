@@ -1,0 +1,66 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">Warwicks Removals</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <div>
+                    <i class="fa-solid fa-house me-3"></i> Home
+                </div>
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/#WhatWeDo">
+                <div>
+                    <i class="fa-solid fa-box-open me-3"></i> What We Do
+                </div>
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/#Testimonials">
+                <div>
+                    <i class="fa-solid fa-comments me-3"></i> Testimonials
+                </div>
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/#GetAQuote">
+                <div>
+                    <i class="fa-solid fa-file-invoice me-3"></i> Get A Quote
+                </div>
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/#GetInTouch">
+                <div>
+                    <i class="fas fa-comment-dots me-3"></i> Contact Us
+                </div>
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/#WhereWeAre">
+                <div>
+                    <i class="fa-solid fa-location-dot me-3"></i> Where We Are
+                </div>
+            </NavLink>
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

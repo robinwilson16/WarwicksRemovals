@@ -1,0 +1,65 @@
+﻿@page "/Quote"
+
+<PageTitle>Home</PageTitle>
+
+<div class="container-fluid Blue p-5">
+    <div class="row">
+        <div class="container">
+            <div class="row">
+                <div class="col-md my-auto">
+                    <h4 class="Highlight">
+                        Warwicks Removals are a North East family run business which is based in Morpeth and covers the whole of the UK.
+                    </h4>
+                    <p>
+                        Your journey with us starts with a no obligation home survey and quote.
+                        Priding ourselves on our professionalism and competitive prices, we can then provide a personal service tailored to your needs.
+                    </p>
+                </div>
+                <div class="col-md">
+                    <img src="/images/Vans.png" alt="We have a range of fully equiped vehicles" class="img-fluid" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid p-5">
+    <div class="row">
+        <div class="container">
+            <div class="row">
+                <div class="col-md">
+                    @* <div id="target"></div> *@
+                    <iframe src="https://app.i-mve.com/jobform/65fb2bf104740b74ac498281" class="iframe" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@* <script>
+    document.addEventListener("DOMContentLoaded", function (event) {
+        let container = document.querySelector('#target');
+        const iframe = document.createElement('iframe');
+        iframe.width = "100%"
+        iframe.frameBorder = "0"
+        iframe.src = "https://app.i-mve.com/jobform/65fb2bf104740b74ac498281";
+        window.addEventListener('load', () => {
+            container.appendChild(iframe);
+        });
+        window.addEventListener(
+            'message',
+            function (e) {
+                let message = e.data;
+                if (message.height) {
+                    iframe.height = message.height + 'px';
+                }
+            },
+            false
+        );
+
+    });
+</script> *@
+
+@code {
+
+}

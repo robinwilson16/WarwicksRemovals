@@ -1,0 +1,5 @@
+C:\Users\robin.wilson\source\repos\WarwicksRemovals\WarwicksRemovals\obj\Release\net10.0\wasm\for-publish\aot-in\System.IO.Pipelines.dll
+644E6E83-BBD4-40AD-ABE8-E9F6F3D72EA5
+6000003
+6000004
+6000005

@@ -1,0 +1,11 @@
+C:\Users\robin.wilson\source\repos\WarwicksRemovals\WarwicksRemovals\obj\Release\net10.0\wasm\for-publish\aot-in\System.ComponentModel.Primitives.dll
+07FCCC75-4717-4BA5-AF37-4C0B014C731A
+6000001
+6000002
+6000003
+6000004
+6000005
+6000006
+6000007
+6000008
+6000009

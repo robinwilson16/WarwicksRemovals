@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\wwwroot\\css\\warwicksremovals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\wwwroot\\css\\warwicksremovals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\pages\\quote.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\pages\\quote.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\wwwroot\\javascript\\warwicksremovals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\wwwroot\\javascript\\warwicksremovals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|c:\\users\\robin.wilson\\source\\repos\\warwicksremovals\\warwicksremovals\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DDA86E7-B3C1-41A2-A50A-3E81514FA1BD}|WarwicksRemovals\\WarwicksRemovals.csproj|solutionrelative:warwicksremovals\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Pages\\Weather.razor",
+              "RelativeToolTip": "WarwicksRemovals\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T10:22:45.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "WarwicksRemovals\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-11T10:22:45.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "WarwicksRemovals\\Layout\\NavMenu.razor.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-11T10:22:45.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "WarwicksRemovals\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-11T10:22:45.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Pages\\Home.razor",
+              "RelativeToolTip": "WarwicksRemovals\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T10:22:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarwicksRemovals.js",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\javascript\\WarwicksRemovals.js",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\wwwroot\\javascript\\WarwicksRemovals.js",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\javascript\\WarwicksRemovals.js",
+              "RelativeToolTip": "WarwicksRemovals\\wwwroot\\javascript\\WarwicksRemovals.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T10:22:45.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarwicksRemovals.css",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\css\\WarwicksRemovals.css",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\wwwroot\\css\\WarwicksRemovals.css",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\css\\WarwicksRemovals.css",
+              "RelativeToolTip": "WarwicksRemovals\\wwwroot\\css\\WarwicksRemovals.css",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAAABEBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-11T10:22:45.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\index.html",
+              "RelativeToolTip": "WarwicksRemovals\\wwwroot\\index.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-11T10:22:45.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\libman.json",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\libman.json",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\libman.json",
+              "RelativeToolTip": "WarwicksRemovals\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T10:22:45.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quote.razor",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Pages\\Quote.razor",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\Pages\\Quote.razor",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Pages\\Quote.razor",
+              "RelativeToolTip": "WarwicksRemovals\\Pages\\Quote.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T10:22:45.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "WarwicksRemovals\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T10:22:45.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WarwicksRemovals\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\robin.wilson\\source\\repos\\WarwicksRemovals\\WarwicksRemovals\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WarwicksRemovals\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T10:22:45.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Users\robin.wilson\source\repos\WarwicksRemovals\WarwicksRemovals\obj\Release\net10.0\wasm\for-publish\aot-in\Microsoft.AspNetCore.Metadata.dll
+FCA1E341-9941-4A01-86A5-D5814AC7DCD5

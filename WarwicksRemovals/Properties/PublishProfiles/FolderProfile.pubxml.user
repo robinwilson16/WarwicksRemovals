@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>\\rd-web-01\Websites\warwicksremovals.co.uk</_PublishTargetUrl>
+    <History>True|2026-10-11T10:27:08.8703238Z||;True|2026-10-11T11:26:19.4824583+01:00||;True|2024-09-12T07:56:30.9997560+01:00||;True|2024-06-07T11:00:39.9007513+01:00||;True|2024-06-07T10:57:30.8069816+01:00||;True|2024-06-07T10:01:58.3802310+01:00||;True|2024-06-07T07:59:09.8899425+01:00||;True|2024-05-04T13:54:57.2486306+01:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

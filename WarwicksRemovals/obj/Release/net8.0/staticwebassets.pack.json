@@ -1,0 +1,1125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\obj\\Release\\net8.0\\compressed\\l27x7lyukt.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\obj\\Release\\net8.0\\scopedcss\\bundle\\WarwicksRemovals.styles.css",
+      "PackagePath": "staticwebassets\\WarwicksRemovals.styles.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\obj\\Release\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\obj\\Release\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\android-chrome-384x384.png",
+      "PackagePath": "staticwebassets\\android-chrome-384x384.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\css\\WarwicksRemovals.css",
+      "PackagePath": "staticwebassets\\css\\WarwicksRemovals.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\Email.png",
+      "PackagePath": "staticwebassets\\images\\Email.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\EmailFooter\\Email.png",
+      "PackagePath": "staticwebassets\\images\\EmailFooter\\Email.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\EmailFooter\\Facebook.png",
+      "PackagePath": "staticwebassets\\images\\EmailFooter\\Facebook.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\EmailFooter\\Map.png",
+      "PackagePath": "staticwebassets\\images\\EmailFooter\\Map.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\EmailFooter\\MoveAssured.jpg",
+      "PackagePath": "staticwebassets\\images\\EmailFooter\\MoveAssured.jpg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\EmailFooter\\Tel.png",
+      "PackagePath": "staticwebassets\\images\\EmailFooter\\Tel.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\EmailFooter\\Twitter.png",
+      "PackagePath": "staticwebassets\\images\\EmailFooter\\Twitter.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\EmailFooter\\URL.png",
+      "PackagePath": "staticwebassets\\images\\EmailFooter\\URL.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\EmailFooter\\WarwicksRemovalsLogo.png",
+      "PackagePath": "staticwebassets\\images\\EmailFooter\\WarwicksRemovalsLogo.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\Facebook.png",
+      "PackagePath": "staticwebassets\\images\\Facebook.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\MoveAssured.jpg",
+      "PackagePath": "staticwebassets\\images\\MoveAssured.jpg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\Twitter.png",
+      "PackagePath": "staticwebassets\\images\\Twitter.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\Vans.png",
+      "PackagePath": "staticwebassets\\images\\Vans.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\WaricksRemovalsLogo.png",
+      "PackagePath": "staticwebassets\\images\\WaricksRemovalsLogo.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\WaricksRemovalsLogoSquare.png",
+      "PackagePath": "staticwebassets\\images\\WaricksRemovalsLogoSquare.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\WarwicksRemovalsLogo.png",
+      "PackagePath": "staticwebassets\\images\\WarwicksRemovalsLogo.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\WarwicksRemovalsLogoNew.png",
+      "PackagePath": "staticwebassets\\images\\WarwicksRemovalsLogoNew.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1000x670.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1000x670.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1024x341.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1024x341.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1080x360.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1080x360.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1080x600.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1080x600.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1300x670.jpg",
+      "PackagePath": "staticwebassets\\images\\boxes-1300x670.jpg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1300x670.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1300x670.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-150x150.png",
+      "PackagePath": "staticwebassets\\images\\boxes-150x150.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1600x1100.jpg",
+      "PackagePath": "staticwebassets\\images\\boxes-1600x1100.jpg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1600x1100.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1600x1100.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1600x1140.jpg",
+      "PackagePath": "staticwebassets\\images\\boxes-1600x1140.jpg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1600x1140.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1600x1140.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1600x1200.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1600x1200.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1600x700.jpg",
+      "PackagePath": "staticwebassets\\images\\boxes-1600x700.jpg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1600x700.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1600x700.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1800x1000.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1800x1000.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1920x1080.jpg",
+      "PackagePath": "staticwebassets\\images\\boxes-1920x1080.jpg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-1920x1080.png",
+      "PackagePath": "staticwebassets\\images\\boxes-1920x1080.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-300x100.png",
+      "PackagePath": "staticwebassets\\images\\boxes-300x100.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-400x250.png",
+      "PackagePath": "staticwebassets\\images\\boxes-400x250.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-400x284.png",
+      "PackagePath": "staticwebassets\\images\\boxes-400x284.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-510x382.png",
+      "PackagePath": "staticwebassets\\images\\boxes-510x382.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes-768x256.png",
+      "PackagePath": "staticwebassets\\images\\boxes-768x256.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\images\\boxes.png",
+      "PackagePath": "staticwebassets\\images\\boxes.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\javascript\\WarwicksRemovals.js",
+      "PackagePath": "staticwebassets\\javascript\\WarwicksRemovals.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\ScrollMagic.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\ScrollMagic.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\ScrollMagic.min.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\ScrollMagic.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\plugins\\animation.gsap.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\plugins\\animation.gsap.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\plugins\\animation.gsap.min.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\plugins\\animation.gsap.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\plugins\\animation.velocity.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\plugins\\animation.velocity.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\plugins\\animation.velocity.min.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\plugins\\animation.velocity.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\plugins\\debug.addIndicators.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\plugins\\debug.addIndicators.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\plugins\\debug.addIndicators.min.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\plugins\\debug.addIndicators.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\plugins\\jquery.ScrollMagic.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\plugins\\jquery.ScrollMagic.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\ScrollMagic\\plugins\\jquery.ScrollMagic.min.js",
+      "PackagePath": "staticwebassets\\lib\\ScrollMagic\\plugins\\jquery.ScrollMagic.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\css\\lg-fb-comment-box.css",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\css\\lg-fb-comment-box.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\css\\lg-fb-comment-box.css.map",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\css\\lg-fb-comment-box.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\css\\lg-fb-comment-box.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\css\\lg-fb-comment-box.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\css\\lg-transitions.css",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\css\\lg-transitions.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\css\\lg-transitions.css.map",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\css\\lg-transitions.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\css\\lg-transitions.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\css\\lg-transitions.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\css\\lightgallery.css",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\css\\lightgallery.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\css\\lightgallery.css.map",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\css\\lightgallery.css.map"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\css\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\css\\lightgallery.min.css"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\fonts\\lg.svg",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\fonts\\lg.svg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\fonts\\lg.ttf",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\fonts\\lg.ttf"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\fonts\\lg.woff",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\fonts\\lg.woff"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\img\\video-play.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\img\\youtube-play.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\js\\lightgallery.js",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\js\\lightgallery.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\lib\\lightgallery-js\\js\\lightgallery.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightgallery-js\\js\\lightgallery.min.js"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\sounds\\confirm.wav",
+      "PackagePath": "staticwebassets\\sounds\\confirm.wav"
+    },
+    {
+      "Id": "C:\\Net Core\\v8.0\\WarwicksRemovals\\WarwicksRemovals\\wwwroot\\sounds\\error.wav",
+      "PackagePath": "staticwebassets\\sounds\\error.wav"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.WarwicksRemovals.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.WarwicksRemovals.props",
+      "PackagePath": "build\\WarwicksRemovals.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WarwicksRemovals.props",
+      "PackagePath": "buildMultiTargeting\\WarwicksRemovals.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.WarwicksRemovals.props",
+      "PackagePath": "buildTransitive\\WarwicksRemovals.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
